@@ -19,6 +19,7 @@ public class Read {
         ArrayList<Integer> entered = new ArrayList<>();
         try {
             //the file to be opened for reading
+            //Testing if push works
             FileInputStream fis = new FileInputStream(filepath);
             Scanner sc = new Scanner(fis);    //file to be scanned
             int x = 0;
