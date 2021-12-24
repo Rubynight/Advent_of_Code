@@ -7,8 +7,8 @@ public class Read {
         //Integer[] test = read();
         //System.out.println(helper(test));
 
-        question6 q6 = new question6();
-        q6.read();
+        question7 q7 = new question7();
+        q7.read();
         //System.out.println(q4.function(entry));
 
     }
